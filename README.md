@@ -1,0 +1,1 @@
+This PowerApp offers a Task Tracker and Shift Handoff feature for efficient task management and smooth shift transitions. Team members can monitor tasks, update statuses, sync with SharePoint, and log follow-up notes for the next shift, promoting collaboration and workflow consistency.
